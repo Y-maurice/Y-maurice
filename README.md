@@ -1,36 +1,35 @@
-# 👋 Hello, I'm Youssef Maurice
-
-🎓 I'm a passionate Computer Science and Artificial Intelligence student at **Cairo University (FCAI-CU)**.
-
-💡 I'm enthusiastic about:
-- 🧠 Problem solving and algorithmic thinking
-- 💻 Coding in **C++**, **Python**, and **Java**
-- 🛠️ Building cool projects and exploring new technologies
-
-🧰 My favorite tools:
-- 🔧 Git
-- 🖥️ VS Code
-- ⚡ Cursor
+<h1 align="center">Hi 👋, I'm Youssef Maurice</h1>
+<h3 align="center">A passionate CS student from FCAI-Cairo University</h3>
 
 ---
 
-## 🚀 What I'm Currently Working On
-- Enhancing my data structures and algorithms skills
-- Building real-world projects with clean and efficient code
-- Contributing to open-source when I can
+## 🧠 About Me
+
+- 🎓 I'm a Computer Science student at Cairo University.
+- 💡 Passionate about problem solving, competitive programming, and building meaningful projects.
+- 💻 Skilled in **C++**, **Python**, and **Java**.
+- 🔨 Tools I use include Git, VS Code, and Cursor.
 
 ---
 
-## 📫 Contact Me
+## 🛠️ Tech Stack
 
-Feel free to connect or reach out to me on:
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- 📧 **Email**: [youssefmoris10@gmail.com] 
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐦 **Twitter/X**: [twitter.com/yourhandle](https://twitter.com/yourhandle)
-- 📸 **Instagram**: [instagram.com/yourhandle](https://instagram.com/yourhandle)
-- 💻 **GitHub**: [github.com/YoussefMaurice](https://github.com/YoussefMaurice)
+### Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-222222?style=flat&logo=github&logoColor=white)
 
 ---
 
-⭐ Don't forget to check out my repositories and leave a star if you like what you see!
+## 📈 GitHub Stats
+
+<!-- GitHub Stats Cards -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefMaurice&show_icons=true&theme=tokyonight" alt="Youssef Maurice's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMaurice&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
