@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef Maurice</h1>
-<h3 align="center">A passionate CS student from FCAI-Cairo University</h3>
+<h3 align="center">A passionate CS student at FCAI-Cairo University</h3>
 
 ---
 
@@ -30,6 +30,6 @@
 
 <!-- GitHub Stats Cards -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefMaurice&show_icons=true&theme=tokyonight" alt="Youssef Maurice's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMaurice&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Y-maurice&show_icons=true&theme=tokyonight" alt="Youssef_Maurice's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-maurice&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
